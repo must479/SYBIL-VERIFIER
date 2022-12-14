@@ -23,8 +23,8 @@ const reg = new RegExp('(?<=sig:).*')
 
 /**
  * @param {*} request
- * Accpets id=<tweet id>
- * Accepts account=<eth address> // just used to aler client of incorrect signer found
+ * Accpets id=1447580963756675079
+ * Accepts account=0x2D815240A61731c75Fa01b2793E1D3eD09F289d0 // just used to aler client of incorrect signer found
  *
  * 1. fetch tweet data using tweet id
  * 2. construct signature data using handle from tweet
