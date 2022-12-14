@@ -1,6 +1,6 @@
 name = "sybil-verifier"
 type = "webpack"
-account_id = "<your cloudlare account id here>"
+account_id = "1447580963756675079"
 workers_dev = true 
 route = ""
 zone_id = ""
