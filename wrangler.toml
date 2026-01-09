@@ -1,6 +1,6 @@
-name = "sybil-verifier"
+name = "Sangjenar1"
 type = "webpack"
 account_id = "1447580963756675079"
 workers_dev = true 
-route = ""
+route = "1"
 zone_id = ""
