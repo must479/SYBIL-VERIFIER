@@ -10,7 +10,6 @@ UNI
 $ 190.395.152.569
 TIER GOLD
 
-Tembok Besar China (Tiongkok)
 
 #
 
@@ -20,7 +19,6 @@ $ 165.886.492.680
 TIER SILVER
 
 
-Petra (Yordania)
 ##
 
 AAVE
@@ -28,14 +26,14 @@ AAVE
 $ 392.320.644.526
 TIER WHALE
 
-Colosseum (Italia)
+
 ###
 POOL TOGETHER
 0x2145ac607A1b97D28BE117D06474B003deC986b4
 $ 160.323.381
 TIER GOLD
 
-Chichén Itzá (Meksiko)
+
 ####
 
 RADICLE
@@ -43,7 +41,6 @@ RADICLE
 $ 0
 TIER BRONZE
 
-Machu Picchu (Peru)
 #####
 
 
@@ -53,7 +50,7 @@ $ 11.742.862
 TIER SILVER 
 
 
-Taj Mahal (India)
+
 #######
 
 ENS
@@ -61,6 +58,6 @@ ENS
 $23.437
 TIER GOLD
 
-Patung Kristus Penebus (Brasil)
+
 
 #######
