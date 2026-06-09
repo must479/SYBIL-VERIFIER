@@ -12,7 +12,18 @@ UPGRADE BEACONPROXYV1 [3]
 BEACON PROXY BASE [1]
 BEACON PROXY OPTIMISTIC [1]
 
+
+
+#########
+
 TIER WHALE
+https://farcaster.xyz/must479/0x5294b831
 
 
+Transaction Volume
+
+$425.119.000.051 total volume
+
+#UNIVERSAL
+  
 ############
