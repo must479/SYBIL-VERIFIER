@@ -44,3 +44,17 @@ _________+
 1 BASE = 20,000 RUPIAH
 
 ############
+Investor 
+450.000.000
+
+Developer 
+100,000,000 
+
+Airdrop 
+100,000,000 
+
+Market 
+250,000,000 
+
+TOTAL SUPPLY 
+900.000.000 BASE 
