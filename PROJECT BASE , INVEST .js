@@ -3,7 +3,7 @@ USER BASE / HEBAT I
 1 BASE = 1 $
 
 Cek 
-@2700 POOL CLAIM & zkme 
+@2700 POOL CLAIM
 @800 
 @4000 
 @30
