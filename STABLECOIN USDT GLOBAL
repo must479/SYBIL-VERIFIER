@@ -120,7 +120,18 @@ AMERIKA [US]
 BURN 3 UNIT
 
 1 UNIT SATELIT = 3,000,000,000 $
+#NEGERI 
+#################
 
+110 SATELIT 
+
+@PRIVASI 
+
+1 UNIT SATELIT = 500,000,000 $
+
+BURN 1 UNIT 
+
+#SWASTA 
 ############################
 CHINA 
 @7 PENDATANG, INDONESIA & DLL 
