@@ -144,9 +144,12 @@ BURN 3 UNIT
 #####
 @PRIVASI 
 
-@5 #TAIKO 
+SATELIT 
+US 
 
-@2 #BASE 
+@2 #BASE
+
+NO ETH REWARD TAIKO 
 
 #SWASTA 
 ############################
@@ -157,7 +160,6 @@ CHINA
 
 BURN 5 UNIT
 
-1 UNIT SATELIT = 1,500,000,000 $ = OPBNB
 
 #######################
 TABUNGAN PEMILIK PT [ETH]  #######SEND OR not [OFF A]  # 101
