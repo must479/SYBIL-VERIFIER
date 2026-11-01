@@ -1,0 +1,42 @@
+#######
+@8 CHINA
+@2 AMERIKA 
+@2 RUSIA 
+@2 JEPANG 
+@1 KOREA
+@1 KANADA
+@2 11MARET
+@2 ARAB 
+@2 INGGRIS 
+@1 PU
+@1 CAKRAWALA UNIVERSITAS 
+@1 LOMBOK
+@1 BALI 
+@2 TETANGGA 
+@4 EROPA 
+
+###############################
+CUCUNYA HAJI MUIS 
+@6 BETAWI 
+###############################
+
+JUDI KALAH 
+
+BNB
+7,000,000,000 IDRT ÷ 263,800 =
+26,615 PASANG 
+
+2 minggu 
+14 hari ijab 
+
+
+ke alamat NETWORK BINANCE 0x2D815240A61731c75Fa01b2793E1D3eD09F289d0
+
+#############
+POWER BANK 
+1,145,450 BTC
+GALI KUBUR NAIK HAJI 
+20,000 BTC 
+
+WALLET BARU 
+##############
