@@ -10,6 +10,23 @@ investor LIQUIDITY 0x & 0
 33,600,000 $ LOMBOK BANDARA #luar Jawa 
 52,500,000 $ PENDATANG KERJA #luar jawa 
 
+USER PASSPORT EXS LUAR NEGERI INDONESIA
+USER PASSPORT EXS LUAR JAWA ANGKASA 
+USER PASSPORT EXS LUAR JAWA 
+USER UNIVERSITAS DROP OUT
+USER UNIVERSITAS LULUS 
+
+5%
+47,250,000 $
+4% 
+37,800,000 $
+3%
+28,350,000 $
+2%
+18,900,000 $
+1%
+9,450,000 $
+
 BUILDER LUAR JAWA #luka #berdarah #jatuh #tiba #tiblok #dawah #wawah..?$? 
 JASA PROMOSI 
 JASA SPONSOR 
@@ -37,6 +54,9 @@ bc1pfc2azkdeengx9a626wmsy88qtkuc76dzjrkzuqmvmvr58d7dqrnq4jrcux
 
 BTC NETWORK #NATIVE SEGWIT (m/84'/0'/0'/0/0) 
 bc1qxjhrhl70lzpujg2yg3g0pchg5mn697nrmp90wt
+
+bitcoinwallet.com 
+bc1qmnszd6f6fjllvadjn8gm4ldu3fw0dfql2uj8pa
 
 bc = BEACON 
 
